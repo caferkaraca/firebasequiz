@@ -1,1 +1,1 @@
-[Link](https://www.caferkaraca.dev/quiz)
+[Projeyi incele](https://www.caferkaraca.dev/quiz)
